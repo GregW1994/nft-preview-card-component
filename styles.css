@@ -41,6 +41,8 @@ body {
 	border-radius: 15px;
 }
 
+/* MAIN IMAGE */
+
 .image {
 	position: relative;
 }
@@ -81,6 +83,8 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+
+/* CONTENT */
 
 h1 {
 	margin: 1.5rem auto;
@@ -130,6 +134,8 @@ a {
 	font-weight: 600;
 }
 
+/* CREDITS */
+
 .line-break {
 	width: 100%;
 	border-bottom: 1px solid var(--line);
@@ -153,10 +159,13 @@ a {
 	margin-left: 1rem;
 }
 
+/* FOOTER */
+
 .attribution {
 	font-size: 11px;
 	text-align: center;
 }
+
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
