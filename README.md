@@ -26,4 +26,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gregw1994.github.io/nft-preview-card-component/)
+- Live Site URL: (https://gregw1994.github.io/nft-preview-card-component/)
